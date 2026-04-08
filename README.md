@@ -1,1 +1,1 @@
-# Spendly_ai
+# Claude Skills
